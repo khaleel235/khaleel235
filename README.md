@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi dev 👋
 
 <!--
 **khaleel235/khaleel235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
